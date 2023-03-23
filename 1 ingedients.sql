@@ -1,1 +1,1 @@
-select 'Water', 1 'Cup'
+select 'Water', 1 'spoon'
