@@ -1,1 +1,0 @@
-select 'cold drinks'
